@@ -1,2 +1,5 @@
 # 3D Printed Egg with a 200g Acceleration Sensor
-for doing experiments in a high school Physics class
+## Purpose ##
+To have an egg that can record data of impacts when dropped or launched.
+
+inspired by CNCKitchen's [tammaDroppy](https://github.com/CNCKitchen/TamaDroppy)
